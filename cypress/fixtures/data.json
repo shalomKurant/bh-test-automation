@@ -1,0 +1,18 @@
+{
+    "user" : {
+        "firstNameHebrew": "סטף",
+        "lastNameHebrew": "קרי",
+        "firstName": "Steph",
+        "lastName": "Curry",
+        "phoneNumber": "0504440090",
+        "emailAddress": "Steph.Curry@gmail.com",
+        "password": "Abc123456"
+    },
+    "errorMessages": {
+        "termsMissing": "אנא אשרו את תנאי התקנון",
+        "hebrewFirstNameMissing": "אנא הכניסו שם פרטי בעברית",
+        "hebrewLastNameMissing": "אנא הכניסו שם משפחה בעברית",
+        "emailMissing": "אנא הכניסו דוא\"ל",
+        "passwordMissing": "אנא הכניסו סיסמה"
+    }
+}
